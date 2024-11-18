@@ -25,7 +25,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "init-msw": "msw init public/",
-    "chromatic": "npx chromatic --project-token=chpt_699819c032843c6"
+    "chromatic": "npx chromatic --project-token=chpt_699819c032843c6",
+    "ci": "chromatic --exit-zero-on-changes"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^8.3.2",
