@@ -1,3 +1,10 @@
+Using Chromatic's Intro to Storybook React template, I just added tests and got everything working in the build + PR process
+
+Done as an evaluation for Nationwide
+
+
+*****************************************************************************************************************
+
 <p align="center">
   <a href="https://www.chromatic.com/">
     <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
